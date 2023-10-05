@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .golheseg1 {
+        padding: 20px 90px 20px 20px;
+        border: 2px solid red;
+        border-radius: 15px;
+        margin: 50px 1500px 50px 10px;
+        background-color: greenyellow;
+      }
+      .golheseg2 {
+        padding: 20px 70px 20px 30px;
+        border: 2px dashed red;
+        border-radius: 15px;
+        margin: 50px 3000px 50px 200px;
+        background-color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>gol hesgiin hoyor tovluur</h2>
+    <p class="golheseg1">
+      <a href="bottom1.htm">CONCERT</a>
+    </p>
+    <p class="golheseg2">
+      <a href="bottom2.htm">PLAY</a>
+    </p>
+    <hr />
+  </body>
+</html>
